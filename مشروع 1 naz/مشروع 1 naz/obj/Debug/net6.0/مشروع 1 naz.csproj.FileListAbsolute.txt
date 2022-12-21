@@ -1,0 +1,15 @@
+C:\Users\ghazaly\source\repos\مشروع 1 naz\مشروع 1 naz\obj\Debug\net6.0\مشروع 1 naz.csproj.AssemblyReference.cache
+C:\Users\ghazaly\source\repos\مشروع 1 naz\مشروع 1 naz\obj\Debug\net6.0\مشروع 1 naz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghazaly\source\repos\مشروع 1 naz\مشروع 1 naz\obj\Debug\net6.0\مشروع 1 naz.AssemblyInfoInputs.cache
+C:\Users\ghazaly\source\repos\مشروع 1 naz\مشروع 1 naz\obj\Debug\net6.0\مشروع 1 naz.AssemblyInfo.cs
+C:\Users\ghazaly\source\repos\مشروع 1 naz\مشروع 1 naz\obj\Debug\net6.0\مشروع 1 naz.csproj.CoreCompileInputs.cache
+C:\Users\ghazaly\source\repos\مشروع 1 naz\مشروع 1 naz\bin\Debug\net6.0\مشروع 1 naz.exe
+C:\Users\ghazaly\source\repos\مشروع 1 naz\مشروع 1 naz\bin\Debug\net6.0\مشروع 1 naz.deps.json
+C:\Users\ghazaly\source\repos\مشروع 1 naz\مشروع 1 naz\bin\Debug\net6.0\مشروع 1 naz.runtimeconfig.json
+C:\Users\ghazaly\source\repos\مشروع 1 naz\مشروع 1 naz\bin\Debug\net6.0\مشروع 1 naz.dll
+C:\Users\ghazaly\source\repos\مشروع 1 naz\مشروع 1 naz\bin\Debug\net6.0\مشروع 1 naz.pdb
+C:\Users\ghazaly\source\repos\مشروع 1 naz\مشروع 1 naz\obj\Debug\net6.0\مشروع 1 naz.dll
+C:\Users\ghazaly\source\repos\مشروع 1 naz\مشروع 1 naz\obj\Debug\net6.0\refint\مشروع 1 naz.dll
+C:\Users\ghazaly\source\repos\مشروع 1 naz\مشروع 1 naz\obj\Debug\net6.0\مشروع 1 naz.pdb
+C:\Users\ghazaly\source\repos\مشروع 1 naz\مشروع 1 naz\obj\Debug\net6.0\مشروع 1 naz.genruntimeconfig.cache
+C:\Users\ghazaly\source\repos\مشروع 1 naz\مشروع 1 naz\obj\Debug\net6.0\ref\مشروع 1 naz.dll
